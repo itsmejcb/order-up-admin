@@ -25,12 +25,39 @@ The **source code and final production build** are **not** included in this repo
 
 ---
 
-## 📲 Installation (for client / tester)
-1. Enable installation from unknown sources on your Android device (or use `adb install`).
-2. Download the prototype APK from this repository.
-3. Transfer and install it on your device.
-4. Launch the app from the app drawer to begin testing.
+## 📲 Download & Installation
+Click below to download the prototype APK:
 
-### Command line install:
-```bash
-adb install -r path/to/OrderUp-prototype.apk
+👉 [**Download OrderUp Prototype APK**](./OrderUp-prototype.apk)
+
+### Installation Steps:
+1. Download the APK using the link above.  
+2. On your Android device, enable **Install unknown apps** (if prompted).  
+3. Open the downloaded APK file.  
+4. Tap **Install** and wait for completion.  
+5. Launch **Order Up** from your app drawer to begin testing.  
+
+---
+
+## 📑 Ownership & License
+- This is a **commissioned work**. Ownership and licensing are defined by the contract between the client and the developer.  
+- Prototype APKs are provided **for testing only** and must not be redistributed, modified, or published without permission.  
+- The developer retains rights to the source code unless otherwise agreed in writing.  
+
+---
+
+## 🛠️ Support & Contact
+For feedback, testing issues, or support, please contact the project owner (developer) through the communication channel defined in the commission agreement.  
+
+---
+
+## 🔒 Security & Privacy
+- The prototype APK may contain placeholder data and is intended **only for testing**.  
+- Do not share the APK or any testing credentials publicly.  
+
+---
+
+## 📌 Client Clause
+> This repository provides the **prototype APK (`OrderUp-prototype.apk`)** for testing purposes only.  
+> The **final build** and **source code** remain private and are not part of this repository.  
+> Contact the developer for updates, production release, or source access (if included in the contract).
