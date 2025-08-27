@@ -1,41 +1,48 @@
 # Order Up — README
 
 > **Important:** This project is a *commissioned* app.  
-> Only the **prototype APK** is provided and downloadable for testing purposes.  
-> The **final production build** and the **source code** remain private and will only be released under the terms of the commission agreement.
+> Only the **prototype APKs** are provided and downloadable for testing purposes.  
+> The **final production builds** and the **source code** remain private and will only be released under the terms of the commission agreement.
 
 ---
 
 ## 📌 Project
-**Order Up** — Commissioned Android application (prototype APK distribution only).
+**Order Up** — Commissioned Android application with two components:
+- **Order Up (Client App)** → for customers/users  
+- **Order Up Admin (Admin App)** → for admins/managers  
+
+Both are distributed as **prototype APKs** for testing only.
 
 ---
 
 ## 📖 Description
-This repository contains the **prototype APK** for the commissioned **Order Up** app.  
-The APK is provided solely for testing and evaluation purposes under the terms of our agreement.  
-The **source code and final production build** are **not** included in this repository.
+This repository contains the **prototype APKs** for the commissioned **Order Up** project.  
+They are provided solely for testing and evaluation under the commission agreement.  
+The **final production builds** and **source code** are **not** included in this repository.
 
 ---
 
 ## 📦 Distribution & Visibility
-- Only the **prototype APK** (`OrderUp-prototype.apk`) is available for download and testing.  
-- The final production build will be delivered directly to the client as agreed.  
-- The **source code** is private and will not be shared unless specified in a separate written agreement.  
+- **Prototype APKs only** are available here:  
+  - `OrderUp-prototype.apk` (client-facing app)  
+  - `OrderUpAdmin-prototype.apk` (admin-facing app)  
+- The **final production builds** will be delivered directly to the client.  
+- The **source code** remains private unless otherwise agreed in writing.  
 
 ---
 
 ## 📲 Download & Installation
-Click below to download the prototype APK:
 
-👉 [**Download OrderUp Prototype APK**](./OrderUp-prototype.apk)
+### 👉 Download Links
+- [**Download OrderUp Prototype (Client App)**](./OrderUp-prototype.apk)  
+- [**Download OrderUp Admin Prototype (Admin App)**](./OrderUpAdmin-prototype.apk)  
 
 ### Installation Steps:
-1. Download the APK using the link above.  
+1. Download the APK(s) using the links above.  
 2. On your Android device, enable **Install unknown apps** (if prompted).  
 3. Open the downloaded APK file.  
 4. Tap **Install** and wait for completion.  
-5. Launch **Order Up** from your app drawer to begin testing.  
+5. Launch **Order Up** or **Order Up Admin** from your app drawer to begin testing.  
 
 ---
 
@@ -52,12 +59,12 @@ For feedback, testing issues, or support, please contact the project owner (deve
 ---
 
 ## 🔒 Security & Privacy
-- The prototype APK may contain placeholder data and is intended **only for testing**.  
-- Do not share the APK or any testing credentials publicly.  
+- The prototype APKs may contain placeholder data and are intended **only for testing**.  
+- Do not share the APKs or any testing credentials publicly.  
 
 ---
 
 ## 📌 Client Clause
-> This repository provides the **prototype APK (`OrderUp-prototype.apk`)** for testing purposes only.  
-> The **final build** and **source code** remain private and are not part of this repository.  
+> This repository provides the **prototype APKs (`OrderUp-prototype.apk` and `OrderUpAdmin-prototype.apk`)** for testing purposes only.  
+> The **final builds** and **source code** remain private and are not part of this repository.  
 > Contact the developer for updates, production release, or source access (if included in the contract).
